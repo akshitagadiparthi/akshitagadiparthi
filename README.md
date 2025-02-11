@@ -8,4 +8,4 @@ This is where I dive into data, uncover trends, and turn numbers into powerful i
 - ⚡ &nbsp; Fun fact: I love discovering hidden patterns in data and exploring new travel destinations
 
 🔗 &nbsp;**Connect with me**
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshita-gadiparthi-778831196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshitagadiparthi" height="30" width="40" /></a>
