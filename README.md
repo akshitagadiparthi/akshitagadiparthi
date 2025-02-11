@@ -1,12 +1,12 @@
 <img src="header_en.svg"></img>
 
 # :space_invader: &nbsp;About Me
-This is the place where I find new datasets to dissect and create graphics from :rofl:
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+This is where I dive into data, uncover trends, and turn numbers into powerful insights! :rofl:
+- 🔭 &nbsp;I’m currently working on something exciting in the world of analytics :wink:
+- 🌱 &nbsp; I’m expanding my skills in machine learning and advanced data visualization
+- 💬 &nbsp; Ask me anything about SQL, Python, Tableau, Power BI, or business analytics!
+- 👨‍💻 &nbsp; Check out my work and projects at [https://akshitagadiparthi.github.io/MyPortfolio1/]([https://www.gautamkrishnar.com](https://akshitagadiparthi.github.io/MyPortfolio1/)/#portfolio)
+- ⚡ &nbsp; Fun fact: I love discovering hidden patterns in data and exploring new travel destinations
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
